@@ -32,7 +32,7 @@ Welcome to my GitHub! I am passionate about applying advanced data science and m
   - Prepared a flexible framework for future dataset expansion and analysis.
   - *(Repo link coming soon)*
 
-- **[Power Consumption Analysis](https://github.com/Karmukilkar/Netflix-movie-cluster-ML-problem-solving-):**
+- **[Power Consumption Analysis](https://github.com/Karmukilkar/Household_power-consumption-prediction):**
   - Conducted exploratory analysis and feature extraction on energy consumption data.
   - Leveraged statistical models and machine learning (regression, time series forecasting) to predict usage trends.
   - Produced business-focused visual reports to guide energy optimization strategies.
