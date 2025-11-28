@@ -2,7 +2,7 @@
 
 **📊 Data Analyst & Visualization Enthusiast | Turning Raw Data into Actionable Insights**
 
-Welcome to my GitHub! I’m passionate about uncovering meaningful patterns from complex data and transforming them into clear, interactive dashboards and data-driven stories. My work bridges the gap between raw datasets and real-world decision-making, with projects ranging from financial transaction trends to unsupervised clustering on entertainment data.
+Welcome to my GitHub! I’m passionate about uncovering meaningful patterns from complex data and transforming them into interactive dashboards and impactful data solutions. My work bridges the gap between raw datasets and real business value.
 
 ---
 
@@ -16,22 +16,32 @@ Welcome to my GitHub! I’m passionate about uncovering meaningful patterns from
 ---
 
 ## 🚀 **Featured Projects**
+
 - **[PhonePe Pulse Data Dashboard](https://github.com/Karmukilkar/phonepay):**  
-  An interactive dashboard visualizing India’s digital payment trends using real PhonePe Pulse data. Built with Python, Streamlit, Plotly, and MySQL to deliver meaningful business insights.
-  
+  Interactive dashboard visualizing India’s digital payment trends using real PhonePe Pulse data, built with Python, Streamlit, Plotly, and MySQL.
+
 - **Netflix Movie Data Clustering:**  
-  Applied unsupervised machine learning techniques to group movies by genre, cast, and ratings to reveal hidden audience patterns and support smarter recommendations. *(Repo link coming soon)*
+  Unsupervised machine learning project grouping movies by genre, cast, and ratings to uncover hidden audience patterns and support recommendations. *(Repo link coming soon)*
+
+- **Power Consumption Analysis:**  
+  Analytical project exploring and forecasting power consumption trends using statistical and machine learning methods to drive insights for energy optimization.
+
+- **Automatic Number Plate Detection:**  
+  Computer vision-based system that detects and recognizes vehicle license plates from images or video streams. Utilizes advanced deep learning techniques with the YOLO v8 object detection model for fast and accurate plate localization. For reading the plate characters, integrates robust Optical Character Recognition (OCR) methods such as Tesseract, enabling end-to-end automated license plate recognition in diverse conditions.
 
 ---
 
 ## 🎯 **Currently Working On**
-- Enhancing my ML skills with advanced clustering and recommendation techniques.
-- Building clean, user-friendly dashboards for real-world datasets.
-- Exploring freelance and collaborative data projects to keep growing and learning.
+
+- Advanced ML for clustering and recommendations.
+- Building user-friendly dashboards for real-world datasets.
+- **Developing RAG-based (Retrieval-Augmented Generation) document processing systems** for complex, high-value textual data analysis.
+- Continually seeking freelance and collaborative data projects.
 
 ---
 
 ## 📫 **Let’s Connect**
+
 I love collaborating on projects that turn raw data into clear business value.  
 Feel free to reach out if you’d like to connect!
 
