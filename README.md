@@ -1,11 +1,15 @@
 # 💫 About Me:
-## Hi there! I'm Karmukilkar 👋<br><br>I'm a **junior Data scientist** and **ML Enthusiast** based in **Chennai**. I specialize in Machine learning and Deep learning Models and building real-world Streamlit applications.<br><br>- 🔭 I’m currently working on **Automatic Number Plate Detection** using **YOLOv8** and **EasyOCR**.<br>- 🌱 I’m currently learning **Advanced RAG and LLm**.<br>- 👯 I’m looking to collaborate on **ML Based model Analysis And Open Source Computer Vision projects**.<br>- 💬 Ask me about **Python, YOLO, OCR, and Image Processing,ML**.<br>- 📫 How to reach me: **[karthikrx100tamil@gmail.com]**<br><br>
+## Hi there! I'm Karmukilkar 👋<br><br>I'm a **junior Data scientist** and **ML Enthusiast** based in **Chennai**. I specialize in Machine learning and Deep learning Models and building real-world Streamlit applications.<br><br>- 🔭 I’m currently working on **Automatic Number Plate Detection** using **YOLOv8** and **EasyOCR**and RAG based document retrival.<br>- 🌱 I’m currently learning **Advanced RAG and LLm**.<br>- 👯 I’m looking to collaborate on **ML Based model Analysis And Open Source Computer Vision projects**.<br>- 💬 Ask me about **Python, YOLO, OCR, and Image Processing,ML**.<br>- 📫 How to reach me: **[karthikrx100tamil@gmail.com]**<br><br>
 
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/karthik-muruganathem-b1a14724a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="mailto:karthikrx100tamil@gmail.com">
+  <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
 
 # 💻 Tech Stack:
